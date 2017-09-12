@@ -1,5 +1,5 @@
 this the first line by test_branch.
-Second the line by master.
+delete;
 using namespace std;
 
 if(true)
