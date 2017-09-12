@@ -1,8 +1,0 @@
-this the first line by test_branch.
-delete;
-using namespace std;
-
-if(true)
-{
-	return 0;
-}
